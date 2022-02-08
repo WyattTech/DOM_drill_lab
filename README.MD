@@ -25,3 +25,5 @@ TasK
 1. Create a function that if a list item is double clicked it removes the list item from the DOM.
 
 ### Advanced Section: Proceed to the DOM DOM DOMMMMMMM! Lab
+
+Tasked attributed to [Covalence](https://covalence.io/)
