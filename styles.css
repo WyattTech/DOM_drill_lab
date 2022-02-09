@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.h1{  color: #561d25 ;}
+.h2{color: #CE8147 ;}
+.h3{color: #FA198B ;}
+.h4{color: #466362 ;}
+.h5{color: #2C4251 ;}
+.h6{color: #FF4A1C ;}
+
+/* #A755C2, #ED1C24, #D64933, #F1D302, #D71921, #BFAB25, #EC4E20, #DC6ACF 
+
+let colorArr = [ "#A755C2", "#ED1C24", "#D64933", "#F1D302", "#D71921", "#BFAB25", "#EC4E20", "#DC6ACF"];*/
